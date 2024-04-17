@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/ggbrw/Documents/GEO Thesis/CoralGeneratorRepo/CoralGenerator/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -O2 -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/generateCoralReef.dir/PerlinNoise.cpp.o -c \"/Users/ggbrw/Documents/GEO Thesis/CoralGeneratorRepo/CoralGenerator/PerlinNoise.cpp\"",
+  "file": "/Users/ggbrw/Documents/GEO Thesis/CoralGeneratorRepo/CoralGenerator/PerlinNoise.cpp",
+  "output": "CMakeFiles/generateCoralReef.dir/PerlinNoise.cpp.o"
+},
+{
+  "directory": "/Users/ggbrw/Documents/GEO Thesis/CoralGeneratorRepo/CoralGenerator/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/include -O2 -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/generateCoralReef.dir/generateCoralReef.cpp.o -c \"/Users/ggbrw/Documents/GEO Thesis/CoralGeneratorRepo/CoralGenerator/generateCoralReef.cpp\"",
+  "file": "/Users/ggbrw/Documents/GEO Thesis/CoralGeneratorRepo/CoralGenerator/generateCoralReef.cpp",
+  "output": "CMakeFiles/generateCoralReef.dir/generateCoralReef.cpp.o"
+}
+]
