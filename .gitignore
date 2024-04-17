@@ -1,3 +1,4 @@
+.DS_Store
 Segmentation/SAM/sam_vit_h_4b8939.pth
 Smithsonian Corals scripts/smithsonian_corals/
 Smithsonian Corals scripts/filtered_corals/
