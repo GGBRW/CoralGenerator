@@ -1,3 +1,6 @@
+// Script to execute on page: https://coralnet.ucsd.edu/label/list/
+// (On that page > Inspect > Console > Paste code > Enter)
+
 data = {}
 for(let row of document.querySelectorAll('tr:not(:first-child)')) {
     if(row.style.display == 'none') continue;

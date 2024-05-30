@@ -2,7 +2,7 @@
     {
         "name": "Acropora cervicornis",
         "filename": "usnm_74016-150k.obj",
-        "filepath": "smithsonian_corals/usnm_74016-100k-2048-obj_std/usnm_74016-150k.obj",
+        "filepath": "usnm_74016-100k-2048-obj_std/usnm_74016-150k.obj",
         "occurrences": 14757,
         "GBIFData": {
             "usageKey": 5184681,
@@ -54,7 +54,7 @@
     {
         "name": "Acropora cervicornis",
         "filename": "usnm_1171477-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1171477-100k-2048-obj_std/usnm_1171477-150k.obj",
+        "filepath": "usnm_1171477-100k-2048-obj_std/usnm_1171477-150k.obj",
         "occurrences": 14757,
         "GBIFData": {
             "usageKey": 5184681,
@@ -107,7 +107,7 @@
     {
         "name": "Acropora digitifera",
         "filename": "USNM_48086_macro-150k.obj",
-        "filepath": "smithsonian_corals/USNM_48086_macro-100k-2048-obj_std/USNM_48086_macro-150k.obj",
+        "filepath": "USNM_48086_macro-100k-2048-obj_std/USNM_48086_macro-150k.obj",
         "notes": "incomplete geometry",
         "occurrences": 2339,
         "GBIFData": {
@@ -158,7 +158,7 @@
     {
         "name": "Acropora palmata",
         "filename": "usnm_3968-150k.obj",
-        "filepath": "smithsonian_corals/usnm_3968-100k-2048-obj_std/usnm_3968-150k.obj",
+        "filepath": "usnm_3968-100k-2048-obj_std/usnm_3968-150k.obj",
         "occurrences": 21490,
         "GBIFData": {
             "usageKey": 5184657,
@@ -207,7 +207,7 @@
     {
         "name": "Acropora prolifera",
         "filename": "usnm_1149322-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1149322-100k-2048-obj_std/usnm_1149322-150k.obj",
+        "filepath": "usnm_1149322-100k-2048-obj_std/usnm_1149322-150k.obj",
         "occurrences": 6681,
         "GBIFData": {
             "usageKey": 5184655,
@@ -259,7 +259,7 @@
         "name": "Acropora secale",
         "notes": "merged with other coral (Tubipora musica)",
         "filename": "usnm_268-150k.obj",
-        "filepath": "smithsonian_corals/usnm_268-100k-2048-obj_std/usnm_268-150k.obj",
+        "filepath": "usnm_268-100k-2048-obj_std/usnm_268-150k.obj",
         "occurrences": 1749,
         "GBIFData": {
             "usageKey": 5184587,
@@ -312,7 +312,7 @@
     {
         "name": "Acropora valenciennesi",
         "filename": "usnm_47056-150k.obj",
-        "filepath": "smithsonian_corals/usnm_47056-100k-4096-obj_std/usnm_47056-150k.obj",
+        "filepath": "usnm_47056-100k-4096-obj_std/usnm_47056-150k.obj",
         "occurrences": 738,
         "GBIFData": {
             "usageKey": 5184594,
@@ -366,7 +366,7 @@
         "name": "Agaricia speciosa",
         "notes": "(possibly) fragment of coral",
         "filename": "usnm_199-150k.obj",
-        "filepath": "smithsonian_corals/usnm_199-100k-2048-obj_std/usnm_199-150k.obj",
+        "filepath": "usnm_199-100k-2048-obj_std/usnm_199-150k.obj",
         "occurrences": 2,
         "GBIFData": {
             "usageKey": 7725077,
@@ -421,7 +421,7 @@
     {
         "name": "Astraea favistella",
         "filename": "USNM_73_macro-150k.obj",
-        "filepath": "smithsonian_corals/USNM_73_macro-100k-2048-obj_std/USNM_73_macro-150k.obj",
+        "filepath": "USNM_73_macro-100k-2048-obj_std/USNM_73_macro-150k.obj",
         "notes": "incomplete geometry",
         "occurrences": 4,
         "GBIFData": {
@@ -478,7 +478,7 @@
         "name": "Astraea pulchra",
         "notes": "(possibly) fragment of coral",
         "filename": "usnm_74-150k.obj",
-        "filepath": "smithsonian_corals/usnm_74-100k-2048-obj_std/usnm_74-150k.obj",
+        "filepath": "usnm_74-100k-2048-obj_std/usnm_74-150k.obj",
         "occurrences": 3,
         "GBIFData": {
             "usageKey": 8744828,
@@ -533,7 +533,7 @@
     {
         "name": "Montastraea curta",
         "filename": "usnm_58-150k.obj",
-        "filepath": "smithsonian_corals/usnm_58-100k-2048-obj_std/usnm_58-150k.obj",
+        "filepath": "usnm_58-100k-2048-obj_std/usnm_58-150k.obj",
         "occurrences": 466,
         "GBIFData": {
             "usageKey": 2260056,
@@ -588,7 +588,7 @@
     {
         "name": "Pleurocorallium niveum",
         "filename": "usnm_56807-150k.obj",
-        "filepath": "smithsonian_corals/usnm_56807-100k-2048-obj_std/usnm_56807-150k.obj",
+        "filepath": "usnm_56807-100k-2048-obj_std/usnm_56807-150k.obj",
         "occurrences": 471,
         "GBIFData": {
             "usageKey": 10439613,
@@ -644,7 +644,7 @@
     {
         "name": "Crypthelia viridis",
         "filename": "usnm_1246330-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1246330-100k-4096-obj_std/usnm_1246330-150k.obj",
+        "filepath": "usnm_1246330-100k-4096-obj_std/usnm_1246330-150k.obj",
         "occurrences": 8,
         "GBIFData": {
             "usageKey": 7660367,
@@ -706,7 +706,7 @@
     {
         "name": "Diploastrea heliopora",
         "filename": "usnm_1183350-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1183350-100k-2048-obj_std/usnm_1183350-150k.obj",
+        "filepath": "usnm_1183350-100k-2048-obj_std/usnm_1183350-150k.obj",
         "notes": "(possibly) fragment of coral",
         "occurrences": 1995,
         "GBIFData": {
@@ -756,7 +756,7 @@
     {
         "name": "Diploria labyrinthiformis",
         "filename": "usnm_74947-150k.obj",
-        "filepath": "smithsonian_corals/usnm_74947-100k-2048-obj_std/usnm_74947-150k.obj",
+        "filepath": "usnm_74947-100k-2048-obj_std/usnm_74947-150k.obj",
         "occurrences": 19348,
         "GBIFData": {
             "usageKey": 2260167,
@@ -808,7 +808,7 @@
     {
         "name": "Distichopora borealis",
         "filename": "usnm_1122878-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1122878-100k-2048-obj_std/usnm_1122878-150k.obj",
+        "filepath": "usnm_1122878-100k-2048-obj_std/usnm_1122878-150k.obj",
         "occurrences": 208,
         "GBIFData": {
             "usageKey": 2265557,
@@ -860,7 +860,7 @@
     {
         "name": "Distichopora violacea",
         "filename": "usnm_76340-150k.obj",
-        "filepath": "smithsonian_corals/usnm_76340-100k-2048-obj_std/usnm_76340-150k.obj",
+        "filepath": "usnm_76340-100k-2048-obj_std/usnm_76340-150k.obj",
         "occurrences": 550,
         "GBIFData": {
             "usageKey": 2265539,
@@ -912,7 +912,7 @@
     {
         "name": "Echinopora reflexa",
         "filename": "usnm_164-150k.obj",
-        "filepath": "smithsonian_corals/usnm_164-100k-2048-obj_std/usnm_164-150k.obj",
+        "filepath": "usnm_164-100k-2048-obj_std/usnm_164-150k.obj",
         "occurrences": 9,
         "GBIFData": {
             "usageKey": 9195677,
@@ -967,7 +967,7 @@
     {
         "name": "Favia fragum",
         "filename": "USNM_36670-150k.obj",
-        "filepath": "smithsonian_corals/USNM_36670-100k-2048-obj_std/USNM_36670-150k.obj",
+        "filepath": "USNM_36670-100k-2048-obj_std/USNM_36670-150k.obj",
         "notes": "incomplete geometry",
         "occurrences": 12315,
         "GBIFData": {
@@ -1021,7 +1021,7 @@
     {
         "name": "Gemmipora brassica",
         "filename": "usnm_210-150k.obj",
-        "filepath": "smithsonian_corals/usnm_210-100k-2048-obj_std/usnm_210-150k.obj",
+        "filepath": "usnm_210-100k-2048-obj_std/usnm_210-150k.obj",
         "occurrences": 3,
         "GBIFData": {
             "usageKey": 8810781,
@@ -1075,7 +1075,7 @@
     {
         "name": "Goniastrea favulus",
         "filename": "usnm_91274-150k.obj",
-        "filepath": "smithsonian_corals/usnm_91274-100k-2048-obj_std/usnm_91274-150k.obj",
+        "filepath": "usnm_91274-100k-2048-obj_std/usnm_91274-150k.obj",
         "occurrences": 667,
         "GBIFData": {
             "usageKey": 2260148,
@@ -1124,7 +1124,7 @@
     {
         "name": "Goniastrea favulus",
         "filename": "usnm_91201-150k.obj",
-        "filepath": "smithsonian_corals/usnm_91201-100k-2048-obj_std/usnm_91201-150k.obj",
+        "filepath": "usnm_91201-100k-2048-obj_std/usnm_91201-150k.obj",
         "occurrences": 667,
         "GBIFData": {
             "usageKey": 2260148,
@@ -1173,7 +1173,7 @@
     {
         "name": "Goniopora columna",
         "filename": "usnm_5781-150k.obj",
-        "filepath": "smithsonian_corals/usnm_5781-100k-2048-obj_std/usnm_5781-150k.obj",
+        "filepath": "usnm_5781-100k-2048-obj_std/usnm_5781-150k.obj",
         "occurrences": 348,
         "GBIFData": {
             "usageKey": 2260443,
@@ -1225,7 +1225,7 @@
         "name": "Heliopora coerulea",
         "notes": "(possibly) fragment of coral",
         "filename": "usnm_45123-150k.obj",
-        "filepath": "smithsonian_corals/usnm_45123-100k-2048-obj_std/usnm_45123-150k.obj",
+        "filepath": "usnm_45123-100k-2048-obj_std/usnm_45123-150k.obj",
         "occurrences": 883,
         "GBIFData": {
             "usageKey": 2264328,
@@ -1277,7 +1277,7 @@
     {
         "name": "Heliopora coerulea",
         "filename": "usnm_1145291-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1145291-100k-2048-obj_std/usnm_1145291-150k.obj",
+        "filepath": "usnm_1145291-100k-2048-obj_std/usnm_1145291-150k.obj",
         "occurrences": 883,
         "GBIFData": {
             "usageKey": 2264328,
@@ -1326,7 +1326,7 @@
     {
         "name": "Herpetolithus crassus",
         "filename": "usnm_160-150k.obj",
-        "filepath": "smithsonian_corals/usnm_160-100k-2048-obj_std/usnm_160-150k.obj",
+        "filepath": "usnm_160-100k-2048-obj_std/usnm_160-150k.obj",
         "occurrences": 2,
         "GBIFData": {
             "usageKey": 8418486,
@@ -1381,7 +1381,7 @@
     {
         "name": "Leptoseris cailleti",
         "filename": "usnm_83771-150k.obj",
-        "filepath": "smithsonian_corals/usnm_83771-100k-2048-obj_std/usnm_83771-150k.obj",
+        "filepath": "usnm_83771-100k-2048-obj_std/usnm_83771-150k.obj",
         "occurrences": 67,
         "GBIFData": {
             "usageKey": 5184805,
@@ -1434,7 +1434,7 @@
     {
         "name": "Leptoseris cucullata",
         "filename": "usnm_83788-150k.obj",
-        "filepath": "smithsonian_corals/usnm_83788-100k-2048-obj_std/usnm_83788-150k.obj",
+        "filepath": "usnm_83788-100k-2048-obj_std/usnm_83788-150k.obj",
         "occurrences": 457,
         "GBIFData": {
             "usageKey": 5711906,
@@ -1488,7 +1488,7 @@
     {
         "name": "Leptoseris gardineri",
         "filename": "usnm_93447-150k.obj",
-        "filepath": "smithsonian_corals/usnm_93447-100k-2048-obj_std/usnm_93447-150k.obj",
+        "filepath": "usnm_93447-100k-2048-obj_std/usnm_93447-150k.obj",
         "occurrences": 228,
         "GBIFData": {
             "usageKey": 5184812,
@@ -1538,7 +1538,7 @@
     {
         "name": "Acropora aspera",
         "filename": "usnm_285-150k.obj",
-        "filepath": "smithsonian_corals/usnm_285-100k-2048-obj_std/usnm_285-150k.obj",
+        "filepath": "usnm_285-100k-2048-obj_std/usnm_285-150k.obj",
         "occurrences": 1300,
         "GBIFData": {
             "usageKey": 5184684,
@@ -1592,7 +1592,7 @@
     {
         "name": "Madrepora conigera",
         "filename": "usnm_240-150k.obj",
-        "filepath": "smithsonian_corals/usnm_240-100k-2048-obj_std/usnm_240-150k.obj",
+        "filepath": "usnm_240-100k-2048-obj_std/usnm_240-150k.obj",
         "occurrences": 3,
         "GBIFData": {
             "usageKey": 7486570,
@@ -1647,7 +1647,7 @@
     {
         "name": "Madrepora cuneata",
         "filename": "usnm_334-150k.obj",
-        "filepath": "smithsonian_corals/usnm_334-100k-2048-obj_std/usnm_334-150k.obj",
+        "filepath": "usnm_334-100k-2048-obj_std/usnm_334-150k.obj",
         "notes": "(possibly) fragment of coral",
         "occurrences": 21,
         "GBIFData": {
@@ -1703,7 +1703,7 @@
     {
         "name": "Madrepora cytherea",
         "filename": "usnm_229-150k.obj",
-        "filepath": "smithsonian_corals/usnm_229-100k-2048-obj_std/usnm_229-150k.obj",
+        "filepath": "usnm_229-100k-2048-obj_std/usnm_229-150k.obj",
         "occurrences": 41,
         "GBIFData": {
             "usageKey": 7614441,
@@ -1758,7 +1758,7 @@
     {
         "name": "Madrepora florida",
         "filename": "usnm_282-150k.obj",
-        "filepath": "smithsonian_corals/usnm_282-100k-2048-obj_std/usnm_282-150k.obj",
+        "filepath": "usnm_282-100k-2048-obj_std/usnm_282-150k.obj",
         "occurrences": 6,
         "GBIFData": {
             "usageKey": 8276146,
@@ -1813,7 +1813,7 @@
     {
         "name": "Acropora formosa",
         "filename": "usnm_292-150k.obj",
-        "filepath": "smithsonian_corals/usnm_292-100k-2048-obj_std/usnm_292-150k.obj",
+        "filepath": "usnm_292-100k-2048-obj_std/usnm_292-150k.obj",
         "occurrences": 846,
         "GBIFData": {
             "usageKey": 5184666,
@@ -1868,7 +1868,7 @@
     {
         "name": "Madrepora horrida",
         "filename": "usnm_291-150k.obj",
-        "filepath": "smithsonian_corals/usnm_291-100k-2048-obj_std/usnm_291-150k.obj",
+        "filepath": "usnm_291-100k-2048-obj_std/usnm_291-150k.obj",
         "occurrences": 12,
         "GBIFData": {
             "usageKey": 7396713,
@@ -1923,7 +1923,7 @@
     {
         "name": "Madrepora humilis",
         "filename": "usnm_332-150k.obj",
-        "filepath": "smithsonian_corals/usnm_332-100k-2048-obj_std/usnm_332-150k.obj",
+        "filepath": "usnm_332-100k-2048-obj_std/usnm_332-150k.obj",
         "occurrences": 4,
         "GBIFData": {
             "usageKey": 7453068,
@@ -1978,7 +1978,7 @@
     {
         "name": "Madrepora hyacinthus",
         "filename": "usnm_246-150k.obj",
-        "filepath": "smithsonian_corals/usnm_246-100k-2048-obj_std/usnm_246-150k.obj",
+        "filepath": "usnm_246-100k-2048-obj_std/usnm_246-150k.obj",
         "occurrences": 12,
         "GBIFData": {
             "usageKey": 7635592,
@@ -2033,7 +2033,7 @@
     {
         "name": "Madrepora robusta",
         "filename": "usnm_297-150k.obj",
-        "filepath": "smithsonian_corals/usnm_297-100k-2048-obj_std/usnm_297-150k.obj",
+        "filepath": "usnm_297-100k-2048-obj_std/usnm_297-150k.obj",
         "occurrences": 9,
         "GBIFData": {
             "usageKey": 7869547,
@@ -2088,7 +2088,7 @@
     {
         "name": "Madrepora spicifera",
         "filename": "usnm_244-150k.obj",
-        "filepath": "smithsonian_corals/usnm_244-100k-2048-obj_std/usnm_244-150k.obj",
+        "filepath": "usnm_244-100k-2048-obj_std/usnm_244-150k.obj",
         "occurrences": 17,
         "GBIFData": {
             "usageKey": 7841115,
@@ -2143,7 +2143,7 @@
     {
         "name": "Madrepora surculosa",
         "filename": "usnm_251-150k.obj",
-        "filepath": "smithsonian_corals/usnm_251-100k-2048-obj_std/usnm_251-150k.obj",
+        "filepath": "usnm_251-100k-2048-obj_std/usnm_251-150k.obj",
         "occurrences": 27,
         "GBIFData": {
             "usageKey": 8270903,
@@ -2198,7 +2198,7 @@
     {
         "name": "Acropora tenuis",
         "filename": "USNM_259_macro-150k.obj",
-        "filepath": "smithsonian_corals/USNM_259_macro-100k-2048-obj_std/USNM_259_macro-150k.obj",
+        "filepath": "USNM_259_macro-100k-2048-obj_std/USNM_259_macro-150k.obj",
         "notes": "incomplete geometry",
         "occurrences": 2144,
         "GBIFData": {
@@ -2253,7 +2253,7 @@
     {
         "name": "Madrepora valida",
         "filename": "usnm_272-150k.obj",
-        "filepath": "smithsonian_corals/usnm_272-100k-2048-obj_std/usnm_272-150k.obj",
+        "filepath": "usnm_272-100k-2048-obj_std/usnm_272-150k.obj",
         "occurrences": 13,
         "GBIFData": {
             "usageKey": 8372062,
@@ -2308,7 +2308,7 @@
     {
         "name": "Manopora caliculata",
         "filename": "usnm_335-150k.obj",
-        "filepath": "smithsonian_corals/usnm_335-100k-2048-obj_std/usnm_335-150k.obj",
+        "filepath": "usnm_335-100k-2048-obj_std/usnm_335-150k.obj",
         "occurrences": 5,
         "GBIFData": {
             "usageKey": 7909065,
@@ -2363,7 +2363,7 @@
     {
         "name": "Manopora capitata",
         "filename": "USNM_305_macro-150k.obj",
-        "filepath": "smithsonian_corals/USNM_305_macro-100k-2048-obj_std/USNM_305_macro-150k.obj",
+        "filepath": "USNM_305_macro-100k-2048-obj_std/USNM_305_macro-150k.obj",
         "notes": "incomplete geometry",
         "occurrences": 1,
         "GBIFData": {
@@ -2419,7 +2419,7 @@
     {
         "name": "Manopora digitata",
         "filename": "usnm_312-150k.obj",
-        "filepath": "smithsonian_corals/usnm_312-100k-2048-obj_std/usnm_312-150k.obj",
+        "filepath": "usnm_312-100k-2048-obj_std/usnm_312-150k.obj",
         "occurrences": 4,
         "GBIFData": {
             "usageKey": 7425295,
@@ -2474,7 +2474,7 @@
     {
         "name": "Montipora lichen",
         "filename": "USNM_336_macro-150k.obj",
-        "filepath": "smithsonian_corals/USNM_336_macro-100k-2048-obj_std/USNM_336_macro-150k.obj",
+        "filepath": "USNM_336_macro-100k-2048-obj_std/USNM_336_macro-150k.obj",
         "notes": "incomplete geometry",
         "occurrences": 3,
         "GBIFData": {
@@ -2530,7 +2530,7 @@
     {
         "name": "Manopora lichen",
         "filename": "usnm_336-150k.obj",
-        "filepath": "smithsonian_corals/usnm_336-100k-2048-obj_std/usnm_336-150k.obj",
+        "filepath": "usnm_336-100k-2048-obj_std/usnm_336-150k.obj",
         "occurrences": 3,
         "GBIFData": {
             "usageKey": 7438497,
@@ -2585,7 +2585,7 @@
     {
         "name": "Manopora nodosa",
         "filename": "usnm_317-150k.obj",
-        "filepath": "smithsonian_corals/usnm_317-100k-2048-obj_std/usnm_317-150k.obj",
+        "filepath": "usnm_317-100k-2048-obj_std/usnm_317-150k.obj",
         "occurrences": 5,
         "GBIFData": {
             "usageKey": 9119763,
@@ -2640,7 +2640,7 @@
     {
         "name": "Manopora scabricula",
         "filename": "usnm_318-150k.obj",
-        "filepath": "smithsonian_corals/usnm_318-100k-2048-obj_std/usnm_318-150k.obj",
+        "filepath": "usnm_318-100k-2048-obj_std/usnm_318-150k.obj",
         "occurrences": 3,
         "GBIFData": {
             "usageKey": 8806671,
@@ -2694,7 +2694,7 @@
     {
         "name": "Meandrina meandrites",
         "filename": "usnm_1174917-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1174917-100k-2048-obj_std/usnm_1174917-150k.obj",
+        "filepath": "usnm_1174917-100k-2048-obj_std/usnm_1174917-150k.obj",
         "occurrences": 16010,
         "GBIFData": {
             "usageKey": 2259752,
@@ -2743,7 +2743,7 @@
         "name": "Merulina rigida",
         "notes": "incomplete geometry",
         "filename": "USNM_148_macro-150k.obj",
-        "filepath": "smithsonian_corals/USNM_148_macro-100k-2048-obj_std/USNM_148_macro-150k.obj",
+        "filepath": "USNM_148_macro-100k-2048-obj_std/USNM_148_macro-150k.obj",
         "occurrences": 7,
         "GBIFData": {
             "usageKey": 9026552,
@@ -2803,7 +2803,7 @@
     {
         "name": "Merulina rigida",
         "filename": "usnm_148-150k.obj",
-        "filepath": "smithsonian_corals/usnm_148-100k-2048-obj_std/usnm_148-150k.obj",
+        "filepath": "usnm_148-100k-2048-obj_std/usnm_148-150k.obj",
         "occurrences": 7,
         "GBIFData": {
             "usageKey": 9026552,
@@ -2863,7 +2863,7 @@
     {
         "name": "Millepora alcicornis",
         "filename": "usnm_1494038-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1494038-100k-2048-obj_std/usnm_1494038-150k.obj",
+        "filepath": "usnm_1494038-100k-2048-obj_std/usnm_1494038-150k.obj",
         "occurrences": 16222,
         "GBIFData": {
             "usageKey": 2265089,
@@ -2911,7 +2911,7 @@
     {
         "name": "Montipora danae",
         "filename": "usnm_307-150k.obj",
-        "filepath": "smithsonian_corals/usnm_307-100k-2048-obj_std/usnm_307-150k.obj",
+        "filepath": "usnm_307-100k-2048-obj_std/usnm_307-150k.obj",
         "occurrences": 533,
         "GBIFData": {
             "usageKey": 2259938,
@@ -2966,7 +2966,7 @@
         "name": "Astraea curta",
         "notes": "(possibly) fragment of coral",
         "filename": "usnm_14-150k.obj",
-        "filepath": "smithsonian_corals/usnm_14-100k-2048-obj_std/usnm_14-150k.obj",
+        "filepath": "usnm_14-100k-2048-obj_std/usnm_14-150k.obj",
         "occurrences": 2,
         "GBIFData": {
             "usageKey": 9169099,
@@ -3021,7 +3021,7 @@
     {
         "name": "Pavonia decussata",
         "filename": "usnm_201-150k.obj",
-        "filepath": "smithsonian_corals/usnm_201-100k-2048-obj_std/usnm_201-150k.obj",
+        "filepath": "usnm_201-100k-2048-obj_std/usnm_201-150k.obj",
         "occurrences": 8,
         "GBIFData": {
             "usageKey": 7553979,
@@ -3077,7 +3077,7 @@
         "name": "Pavonia praetorta",
         "notes": "incomplete geometry",
         "filename": "USNM_152-150k.obj",
-        "filepath": "smithsonian_corals/USNM_152_macro-100k-2048-obj_std/USNM_152-150k.obj",
+        "filepath": "USNM_152_macro-100k-2048-obj_std/USNM_152-150k.obj",
         "occurrences": 1,
         "GBIFData": {
             "usageKey": 8765934,
@@ -3132,7 +3132,7 @@
     {
         "name": "Pocillopora damicornis",
         "filename": "usnm_44359-150k.obj",
-        "filepath": "smithsonian_corals/usnm_44359-100k-2048-obj_std/usnm_44359-150k.obj",
+        "filepath": "usnm_44359-100k-2048-obj_std/usnm_44359-150k.obj",
         "occurrences": 35420,
         "GBIFData": {
             "usageKey": 2259464,
@@ -3183,7 +3183,7 @@
     {
         "name": "Pocillopora damicornis caespitosa",
         "filename": "usnm_81450-150k.obj",
-        "filepath": "smithsonian_corals/usnm_81450-100k-2048-obj_std/usnm_81450-150k.obj",
+        "filepath": "usnm_81450-100k-2048-obj_std/usnm_81450-150k.obj",
         "occurrences": 82,
         "GBIFData": {
             "usageKey": 6472644,
@@ -3236,7 +3236,7 @@
     {
         "name": "Pocillopora damicornis",
         "filename": "usnm_46926-150k.obj",
-        "filepath": "smithsonian_corals/usnm_46926-100k-2048-obj_std/usnm_46926-150k.obj",
+        "filepath": "usnm_46926-100k-2048-obj_std/usnm_46926-150k.obj",
         "occurrences": 35420,
         "GBIFData": {
             "usageKey": 2259464,
@@ -3284,7 +3284,7 @@
     {
         "name": "Pocillopora damicornis",
         "filename": "usnm_1128565-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1128565-100k-2048-obj_std/usnm_1128565-150k.obj",
+        "filepath": "usnm_1128565-100k-2048-obj_std/usnm_1128565-150k.obj",
         "occurrences": 35420,
         "GBIFData": {
             "usageKey": 2259464,
@@ -3335,7 +3335,7 @@
     {
         "name": "Pocillopora damicornis",
         "filename": "usnm_93379-150k.obj",
-        "filepath": "smithsonian_corals/usnm_93379-100k-2048-obj_std/usnm_93379-150k.obj",
+        "filepath": "usnm_93379-100k-2048-obj_std/usnm_93379-150k.obj",
         "occurrences": 35420,
         "GBIFData": {
             "usageKey": 2259464,
@@ -3385,7 +3385,7 @@
     {
         "name": "Pocillopora grandis",
         "filename": "usnm_700-150k.obj",
-        "filepath": "smithsonian_corals/usnm_700-100k-2048-obj_std/usnm_700-150k.obj",
+        "filepath": "usnm_700-100k-2048-obj_std/usnm_700-150k.obj",
         "occurrences": 3785,
         "GBIFData": {
             "usageKey": 4339426,
@@ -3436,7 +3436,7 @@
     {
         "name": "Pocillopora meandrina",
         "filename": "usnm_89696-150k.obj",
-        "filepath": "smithsonian_corals/usnm_89696-100k-2048-obj_std/usnm_89696-150k.obj",
+        "filepath": "usnm_89696-100k-2048-obj_std/usnm_89696-150k.obj",
         "occurrences": 4269,
         "GBIFData": {
             "usageKey": 2259467,
@@ -3489,7 +3489,7 @@
     {
         "name": "Pocillopora molokensis",
         "filename": "usnm_20994-150k.obj",
-        "filepath": "smithsonian_corals/usnm_20994-100k-2048-obj_std/usnm_20994-150k.obj",
+        "filepath": "usnm_20994-100k-2048-obj_std/usnm_20994-150k.obj",
         "occurrences": 22,
         "GBIFData": {
             "usageKey": 7678799,
@@ -3543,7 +3543,7 @@
     {
         "name": "Pocillopora molokensis",
         "filename": "usnm_20996-150k.obj",
-        "filepath": "smithsonian_corals/usnm_20996-100k-2048-obj_std/usnm_20996-150k.obj",
+        "filepath": "usnm_20996-100k-2048-obj_std/usnm_20996-150k.obj",
         "occurrences": 22,
         "GBIFData": {
             "usageKey": 7678799,
@@ -3598,7 +3598,7 @@
     {
         "name": "Porites lobata",
         "filename": "usnm_646-150k.obj",
-        "filepath": "smithsonian_corals/usnm_646-100k-2048-obj_std/usnm_646-150k.obj",
+        "filepath": "usnm_646-100k-2048-obj_std/usnm_646-150k.obj",
         "occurrences": 6395,
         "GBIFData": {
             "usageKey": 5184766,
@@ -3649,7 +3649,7 @@
     {
         "name": "Porites monticulosa",
         "filename": "usnm_664-150k.obj",
-        "filepath": "smithsonian_corals/usnm_664-100k-2048-obj_std/usnm_664-150k.obj",
+        "filepath": "usnm_664-100k-2048-obj_std/usnm_664-150k.obj",
         "occurrences": 166,
         "GBIFData": {
             "usageKey": 5720613,
@@ -3700,7 +3700,7 @@
     {
         "name": "Psammocora columna",
         "filename": "usnm_188-150k.obj",
-        "filepath": "smithsonian_corals/usnm_188-100k-2048-obj_std/usnm_188-150k.obj",
+        "filepath": "usnm_188-100k-2048-obj_std/usnm_188-150k.obj",
         "occurrences": 1287,
         "GBIFData": {
             "usageKey": 8288095,
@@ -3754,7 +3754,7 @@
     {
         "name": "Pseudodiploria strigosa",
         "filename": "usnm_1137708-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1137708-100k-4096-obj_std/usnm_1137708-150k.obj",
+        "filepath": "usnm_1137708-100k-4096-obj_std/usnm_1137708-150k.obj",
         "occurrences": 29099,
         "GBIFData": {
             "usageKey": 7454555,
@@ -3807,7 +3807,7 @@
     {
         "name": "Scolymia australis",
         "filename": "usnm_79493-150k.obj",
-        "filepath": "smithsonian_corals/usnm_79493-100k-2048-obj_std/usnm_79493-150k.obj",
+        "filepath": "usnm_79493-100k-2048-obj_std/usnm_79493-150k.obj",
         "occurrences": 87,
         "GBIFData": {
             "usageKey": 2260339,
@@ -3857,7 +3857,7 @@
     {
         "name": "Sideropora mordax",
         "filename": "usnm_344-150k.obj",
-        "filepath": "smithsonian_corals/usnm_344-100k-2048-obj_std/usnm_344-150k.obj",
+        "filepath": "usnm_344-100k-2048-obj_std/usnm_344-150k.obj",
         "occurrences": 3,
         "GBIFData": {
             "usageKey": 7971589,
@@ -3912,7 +3912,7 @@
     {
         "name": "Stylaster alaskanus",
         "filename": "usnm_1122454-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1122454-100k-2048-obj_std/usnm_1122454-150k.obj",
+        "filepath": "usnm_1122454-100k-2048-obj_std/usnm_1122454-150k.obj",
         "occurrences": 75,
         "GBIFData": {
             "usageKey": 2265385,
@@ -3966,7 +3966,7 @@
     {
         "name": "Stylaster brochi",
         "filename": "usnm_1122540-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1122540-100k-2048-obj_std/usnm_1122540-150k.obj",
+        "filepath": "usnm_1122540-100k-2048-obj_std/usnm_1122540-150k.obj",
         "occurrences": 214,
         "GBIFData": {
             "usageKey": 2265380,
@@ -4021,7 +4021,7 @@
     {
         "name": "Stylaster sanguineus",
         "filename": "usnm_76600-150k.obj",
-        "filepath": "smithsonian_corals/usnm_76600-100k-2048-obj_std/usnm_76600-150k.obj",
+        "filepath": "usnm_76600-100k-2048-obj_std/usnm_76600-150k.obj",
         "occurrences": 123,
         "GBIFData": {
             "usageKey": 11138381,
@@ -4068,7 +4068,7 @@
     {
         "name": "Stylaster verrillii",
         "filename": "usnm_1027819-150k.obj",
-        "filepath": "smithsonian_corals/usnm_1027819-100k-2048-obj_std/usnm_1027819-150k.obj",
+        "filepath": "usnm_1027819-100k-2048-obj_std/usnm_1027819-150k.obj",
         "occurrences": 59,
         "GBIFData": {
             "usageKey": 2265384,
@@ -4121,7 +4121,7 @@
     {
         "name": "Tubipora musica",
         "filename": "usnm_558-150k.obj",
-        "filepath": "smithsonian_corals/usnm_558-100k-2048-obj_std/usnm_558-150k.obj",
+        "filepath": "usnm_558-100k-2048-obj_std/usnm_558-150k.obj",
         "occurrences": 765,
         "GBIFData": {
             "usageKey": 2263694,
@@ -4172,7 +4172,7 @@
     {
         "name": "Seriatopora hystrix",
         "filename": "usnm_346-01-100k.obj",
-        "filepath": "smithsonian_corals/usnm_346-100k-obj/usnm_346-01-100k.obj",
+        "filepath": "usnm_346-100k-obj/usnm_346-01-100k.obj",
         "occurrences": 2010,
         "GBIFData": {
             "usageKey": 2259471,

@@ -1,4 +1,3 @@
-// read coral_catalog.json
 const fs = require('fs');
 const path = require('path');
 
@@ -50,19 +49,3 @@ for (let coral of catalog) {
 // sort by popularity
 catalog.sort((a, b) => b.popularity - a.popularity);
 console.log(catalog.slice(0, 10).map(x => [x.name, x.popularity]));
-
-
-// Ensure the destination directory exists
-const destFolder = 'filtered_corals';
-if (!fs.existsSync(destFolder)) {
-    fs.mkdirSync(destFolder, { recursive: true });
-}
-for (let coral of catalog) {
-    const filepath = coral.filepath.split('/').slice(0,-1).join('/');
-    const folder = filepath.replace('smithsonian_corals/', '');
-
-    // copy folder to filtered_corals
-    const dest = path.join(destFolder, folder);
-
-    
-}
