@@ -1,0 +1,96 @@
+{
+  "Pocillopora damicornis; Pocillopora meandrina": {
+    "count": 85,
+    "image": "Central Offshore Reef5",
+    "source": "https://coralnet.ucsd.edu/source/1073/browse/patches/",
+    "estimated_width_m": 0.5
+  },
+  "Pocillopora damicornis; Porites lobata": {
+    "count": 4,
+    "image": "South Off Shore Reef11",
+    "source": "https://coralnet.ucsd.edu/source/1073/browse/patches/",
+    "estimated_width_m": 0.25
+  },
+  "Pocillopora meandrina; Porites lobata": {
+    "count": 74,
+    "image": "Punalu'u Outer-Mid Reef15",
+    "source": "https://coralnet.ucsd.edu/source/1073/browse/patches/",
+    "estimated_width_m": 0.5
+  },
+  "Acropora cervicornis; Pseudodiploria strigosa": {
+    "count": 1,
+    "image": "P8311241.JPG",
+    "source": "https://coralnet.ucsd.edu/source/3412/browse/patches/",
+    "estimated_width_m": 1
+  },
+  "Millepora alcicornis; Pseudodiploria strigosa": {
+    "count": 9,
+    "image": "P8300795.JPG",
+    "source": "https://coralnet.ucsd.edu/source/3412/browse/patches/",
+    "estimated_width_m": 0.25
+  },
+  "Diploria labyrinthiformis; Pseudodiploria strigosa": {
+    "count": 63,
+    "image": "CSA_194_T1_PB140156_3.JPG",
+    "source": "https://coralnet.ucsd.edu/source/3465/browse/patches/",
+    "estimated_width_m": 0.5
+  },
+  "Diploria labyrinthiformis; Meandrina meandrites": {
+    "count": 6,
+    "image": "CSA_173_T2_PB170192_23.JPG",
+    "source": "https://coralnet.ucsd.edu/source/3414/browse/patches/",
+    "estimated_width_m": 1
+  },
+  "Meandrina meandrites; Pseudodiploria strigosa": {
+    "count": 50,
+    "image": "SHP_July_07_21ed_forGOPR8479.JPG",
+    "source": "https://coralnet.ucsd.edu/source/3771/browse/patches/",
+    "estimated_width_m": 0.5
+  },
+  "Acropora cervicornis; Acropora palmata": {
+    "count": 4,
+    "image": "HJR.OrthoBlock-0-0.jpg",
+    "source": "https://coralnet.ucsd.edu/source/1767/browse/patches/",
+    "estimated_width_m": 2.5
+  },
+  "Pocillopora grandis; Porites lobata": {
+    "count": 14,
+    "image": "IR09_2017_Rotated.jpg",
+    "source": "https://coralnet.ucsd.edu/source/4759/browse/patches/"
+  },
+  "Porites lobata; Porites monticulosa": {
+    "count": 1,
+    "image": "WH_2022_S01_088_CT_PlotL.jpg",
+    "source": "https://coralnet.ucsd.edu/source/4009/browse/patches/"
+  },
+  "Acropora cervicornis; Acropora prolifera": {
+    "count": 2,
+    "image": "_LTR0947.JPG",
+    "source": "https://coralnet.ucsd.edu/source/3327/browse/patches/"
+  },
+  "Meandrina meandrites; Millepora alcicornis": {
+    "count": 1,
+    "image": "vlcsnap-2023-04-06-21h42m11s381.png",
+    "source": "https://coralnet.ucsd.edu/source/3932/browse/patches/"
+  },
+  "Acropora digitifera; Porites lobata": {
+    "count": 11,
+    "image": "GOPR5038.JPG",
+    "source": "https://coralnet.ucsd.edu/source/4672/browse/patches/"
+  },
+  "Acropora digitifera; Pocillopora meandrina": {
+    "count": 2,
+    "image": "GOPR4063.JPG",
+    "source": "https://coralnet.ucsd.edu/source/4679/browse/patches/"
+  },
+  "Acropora cervicornis; Millepora alcicornis": {
+    "count": 4,
+    "image": "Cheetos 065 DSCN9654.JPG",
+    "source": "https://coralnet.ucsd.edu/source/3402/browse/patches/"
+  },
+  "Heliopora coerulea; Pocillopora damicornis": {
+    "count": 3,
+    "image": "2020-07-24-ASAN-B-T4 9.0-A (P7240366).JPG",
+    "source": "https://coralnet.ucsd.edu/source/2112/browse/patches/"
+  }
+}

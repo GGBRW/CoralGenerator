@@ -108,6 +108,7 @@ for(let source in data) {
             for(let j = i; j < images[image].length; ++j) {
                 const species1 = matchSpecies(images[image][i]);
                 const species2 = matchSpecies(images[image][j]);
+                if(species1 === species2) continue; 
                 const key = species1 < species2 ? species1 + '; ' + species2 : species2 + '; ' + species1;
 
                 if(!coOccurrences[key]) coOccurrences[key] = { count: 0, image, source };
@@ -117,4 +118,7 @@ for(let source in data) {
     }
 }
 
-console.log(coOccurrences);
+console.log("found " + Object.keys(coOccurrences).length + " co-occurrences.");
+// write to file
+
+fs.writeFileSync('coOccurrences.json', JSON.stringify(coOccurrences, null, 2));
