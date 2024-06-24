@@ -97,7 +97,8 @@ for(let source in data) {
     for(let species in data[source]) {
         const occurences = data[source][species];
         for(let occ of occurences) {
-            const image = occ.split(':')[1].trim();
+            // const image = occ.split(':')[1].trim();
+            const image = source;
             if(!images[image]) images[image] = [];
             images[image].push(species);
         }
@@ -119,6 +120,7 @@ for(let source in data) {
 }
 
 console.log("found " + Object.keys(coOccurrences).length + " co-occurrences.");
+console.log("found " + Object.values(coOccurrences).map(x => x.count).reduce((a,b) => a + b) + " co-occurrences.");
 // write to file
 
-fs.writeFileSync('coOccurrences.json', JSON.stringify(coOccurrences, null, 2));
+// fs.writeFileSync('coOccurrences.json', JSON.stringify(coOccurrences, null, 2));
