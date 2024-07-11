@@ -1,0 +1,22 @@
+{
+    "Outer Reef Flat": {
+        "Oulastrea crispata": 1
+    },
+    "Terrestrial Reef Flat": {
+        "Edwardsianthus pudicus": 1,
+        "Zoanthus sansibaricus": 1,
+        "Stichodactyla haddoni": 1
+    },
+    "Shallow Lagoon": {
+        "Stichodactyla mertensii": 1
+    },
+    "Inner Reef Flat": {
+        "Porpita porpita": 1,
+        "Paracondylactis singaporensis": 1,
+        "Radianthus magnifica": 1,
+        "Zoanthus sansibaricus": 1
+    },
+    "Reef Slope": {
+        "Pocillopora damicornis": 1
+    }
+}

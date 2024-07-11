@@ -1,0 +1,109 @@
+{
+    "Sheltered Reef Slope": {
+        "Condylactis gigantea": 1,
+        "Millepora alcicornis": 1,
+        "Agaricia agaricites": 1,
+        "Isarachnanthus nocturnus": 1,
+        "Meandrina meandrites": 1,
+        "Montastraea cavernosa": 1,
+        "Gorgonia ventalina": 1,
+        "Lebrunia neglecta": 1
+    },
+    "Terrestrial Reef Flat": {
+        "Pterogorgia anceps": 8,
+        "Montastraea cavernosa": 4,
+        "Porites astreoides": 5,
+        "Condylactis gigantea": 3,
+        "Briareum asbestinum": 2,
+        "Pseudodiploria strigosa": 3,
+        "Velella velella": 1,
+        "Millepora alcicornis": 2,
+        "Pseudodiploria clivosa": 3,
+        "Physalia physalis": 14,
+        "Palythoa caribaeorum": 3,
+        "Gorgonia ventalina": 2,
+        "Bartholomea annulata": 1,
+        "Siderastrea radians": 3,
+        "Solenastrea bournoni": 1,
+        "Exaiptasia diaphana": 1,
+        "Porites porites": 1,
+        "Isoaulactinia stelloides": 1
+    },
+    "Outer Reef Flat": {
+        "Millepora alcicornis": 2,
+        "Gorgonia ventalina": 4,
+        "Physalia physalis": 16,
+        "Palythoa caribaeorum": 1,
+        "Velella velella": 1,
+        "Pseudodiploria strigosa": 2,
+        "Porites astreoides": 3,
+        "Porites porites": 4,
+        "Siderastrea siderea": 3,
+        "Bartholomea annulata": 1,
+        "Pterogorgia anceps": 2,
+        "Stylaster roseus": 1,
+        "Porpita porpita": 1,
+        "Condylactis gigantea": 2,
+        "Diploria labyrinthiformis": 1,
+        "Briareum asbestinum": 1,
+        "Montastraea cavernosa": 1,
+        "Pseudodiploria clivosa": 1
+    },
+    "Deep Lagoon": {
+        "Plexaurella nutans": 1,
+        "Gorgonia ventalina": 4,
+        "Eusmilia fastigiata": 2,
+        "Plexaura homomalla": 1,
+        "Palythoa caribaeorum": 1,
+        "Millepora alcicornis": 2,
+        "Condylactis gigantea": 1,
+        "Siderastrea siderea": 1,
+        "Pseudodiploria strigosa": 1,
+        "Porites astreoides": 1
+    },
+    "Inner Reef Flat": {
+        "Olindias tenuis": 1,
+        "Montastraea cavernosa": 3,
+        "Gorgonia ventalina": 5,
+        "Physalia physalis": 18,
+        "Briareum asbestinum": 3,
+        "Millepora alcicornis": 1,
+        "Diploria labyrinthiformis": 1,
+        "Porites astreoides": 4,
+        "Siderastrea siderea": 1,
+        "Erythropodium caribaeorum": 1,
+        "Pseudodiploria clivosa": 2,
+        "Pseudodiploria strigosa": 3,
+        "Siderastrea radians": 1,
+        "Exaiptasia diaphana": 1,
+        "Palythoa caribaeorum": 5,
+        "Pterogorgia anceps": 1,
+        "Velella velella": 1,
+        "Stichodactyla helianthus": 1,
+        "Bartholomea annulata": 1
+    },
+    "Shallow Lagoon": {
+        "Diploria labyrinthiformis": 2,
+        "Gorgonia ventalina": 3,
+        "Bartholomea annulata": 3,
+        "Physalia physalis": 1,
+        "Condylactis gigantea": 6,
+        "Porites astreoides": 4,
+        "Colpophyllia natans": 1,
+        "Actinostella flosculifera": 1,
+        "Siderastrea radians": 1,
+        "Palythoa caribaeorum": 1
+    },
+    "Back Reef Slope": {
+        "Millepora complanata": 1,
+        "Gorgonia ventalina": 2
+    },
+    "Plateau": {
+        "Gorgonia ventalina": 2,
+        "Millepora alcicornis": 1,
+        "Pennaria disticha": 1
+    },
+    "Reef Crest": {
+        "Gorgonia ventalina": 2
+    }
+}

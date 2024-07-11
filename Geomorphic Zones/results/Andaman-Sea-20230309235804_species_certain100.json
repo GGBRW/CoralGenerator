@@ -1,0 +1,71 @@
+{
+    "Back Reef Slope": {
+        "Herpolitha limax": 2,
+        "Pocillopora damicornis": 1,
+        "Radianthus magnifica": 1,
+        "Junceella fragilis": 1,
+        "Palythoa tuberculosa": 1,
+        "Tubastraea micranthus": 1,
+        "Pocillopora verrucosa": 1
+    },
+    "Outer Reef Flat": {
+        "Oulastrea crispata": 1,
+        "Radianthus magnifica": 4,
+        "Melithaea ochracea": 1,
+        "Entacmaea quadricolor": 1,
+        "Stephanocoenia intersepta": 1,
+        "Diploastrea heliopora": 1
+    },
+    "Reef Slope": {
+        "Palythoa tuberculosa": 1,
+        "Rhodactis rhodostoma": 2,
+        "Pocillopora damicornis": 1,
+        "Junceella fragilis": 1
+    },
+    "Terrestrial Reef Flat": {
+        "Edwardsianthus pudicus": 1,
+        "Gyractis sesere": 2,
+        "Oulastrea crispata": 1,
+        "Zoanthus sansibaricus": 1,
+        "Stichodactyla haddoni": 1,
+        "Entacmaea quadricolor": 1
+    },
+    "Inner Reef Flat": {
+        "Montipora digitata": 5,
+        "Pocillopora damicornis": 3,
+        "Anthopleura dixoniana": 1,
+        "Palythoa tuberculosa": 1,
+        "Pocillopora acuta": 1,
+        "Herpolitha limax": 2,
+        "Rhodactis rhodostoma": 1,
+        "Radianthus magnifica": 9,
+        "Melithaea ochracea": 1,
+        "Junceella fragilis": 2,
+        "Cryptodendrum adhaesivum": 1,
+        "Paracondylactis singaporensis": 2,
+        "Isactinia citrina": 1,
+        "Stichodactyla mertensii": 1,
+        "Porpita porpita": 1,
+        "Ctenactis echinata": 1,
+        "Edwardsianthus pudicus": 1,
+        "Zoanthus sansibaricus": 1,
+        "Porites rus": 1
+    },
+    "Deep Lagoon": {
+        "Rhodactis rhodostoma": 1,
+        "Radianthus magnifica": 1,
+        "Ctenocella pectinata": 1
+    },
+    "Shallow Lagoon": {
+        "Stichodactyla mertensii": 1,
+        "Merulina scabricula": 1
+    },
+    "Sheltered Reef Slope": {
+        "Palythoa tuberculosa": 1,
+        "Tubastraea coccinea": 1,
+        "Acropora cervicornis": 1
+    },
+    "Plateau": {
+        "Pocillopora damicornis": 1
+    }
+}

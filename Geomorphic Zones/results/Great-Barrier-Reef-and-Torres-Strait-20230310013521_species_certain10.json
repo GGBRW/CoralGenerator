@@ -1,0 +1,53 @@
+{
+    "Outer Reef Flat": {
+        "Porpita porpita": 2,
+        "Montipora digitata": 4,
+        "Pocillopora damicornis": 1,
+        "Stichodactyla gigantea": 3,
+        "Astrea curta": 1,
+        "Acropora spathulata": 2,
+        "Entacmaea quadricolor": 1,
+        "Acropora gemmifera": 1,
+        "Actinia tenebrosa": 1,
+        "Zoanthus sansibaricus": 1,
+        "Stichodactyla haddoni": 1
+    },
+    "Sheltered Reef Slope": {
+        "Annella mollis": 1,
+        "Acropora valenciennesi": 2,
+        "Psammocora haimiana": 1
+    },
+    "Deep Lagoon": {
+        "Merulina scabricula": 1,
+        "Acropora spathulata": 1
+    },
+    "Reef Slope": {
+        "Acropora valida": 1,
+        "Stylophora pistillata": 1,
+        "Pocillopora damicornis": 1,
+        "Annella mollis": 1,
+        "Pocillopora verrucosa": 1,
+        "Subergorgia suberosa": 1,
+        "Turbinaria stellulata": 1,
+        "Junceella fragilis": 1,
+        "Pavona varians": 1
+    },
+    "Inner Reef Flat": {
+        "Entacmaea quadricolor": 2,
+        "Isarachnanthus bandanensis": 1,
+        "Cyphastrea chalcidicum": 1,
+        "Lobophytum sarcophytoides": 1,
+        "Actinia tenebrosa": 1,
+        "Platygyra daedalea": 1
+    },
+    "Plateau": {
+        "Cryptodendrum adhaesivum": 1
+    },
+    "Back Reef Slope": {
+        "Lobophytum pauciflorum": 1,
+        "Sarcophyton elegans": 2
+    },
+    "Terrestrial Reef Flat": {
+        "Coelastrea aspera": 1
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "Outer Reef Flat": {
+        "Pavona varians": 8,
+        "Porites compressa": 3,
+        "Palythoa mutuki": 4,
+        "Pocillopora meandrina": 36,
+        "Telmatactis decora": 4,
+        "Palythoa tuberculosa": 17,
+        "Sarcothelia edmondsoni": 7,
+        "Porites evermanni": 13,
+        "Palythoa heliodiscus": 1,
+        "Physalia physalis": 6,
+        "Porpita porpita": 2,
+        "Pocillopora verrucosa": 3,
+        "Pennaria disticha": 1,
+        "Zoanthus sansibaricus": 1,
+        "Exaiptasia diaphana": 4,
+        "Pocillopora damicornis": 5,
+        "Anthopleura nigrescens": 2,
+        "Lobactis scutaria": 1,
+        "Zoanthus kuroshio": 2,
+        "Isaurus tuberculatus": 1
+    },
+    "Terrestrial Reef Flat": {
+        "Palythoa mutuki": 2,
+        "Bartholomea annulata": 1
+    },
+    "Inner Reef Flat": {
+        "Palythoa tuberculosa": 1,
+        "Pocillopora meandrina": 3
+    },
+    "Sheltered Reef Slope": {
+        "Pocillopora meandrina": 4,
+        "Pavona duerdeni": 1,
+        "Pleuractis granulosa": 2,
+        "Palythoa tuberculosa": 1,
+        "Cirrhipathes anguina": 1
+    },
+    "Deep Lagoon": {
+        "Tubastraea coccinea": 1
+    },
+    "Reef Slope": {
+        "Triactis producta": 1,
+        "Cladopsammia eguchii": 1,
+        "Solanderia secunda": 1
+    },
+    "Shallow Lagoon": {
+        "Pocillopora damicornis": 1
+    }
+}
