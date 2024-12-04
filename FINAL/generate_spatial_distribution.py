@@ -1,7 +1,8 @@
 import random
 import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 from collections import defaultdict
+import json
 
 
 class CoralSpecies:
@@ -76,34 +77,20 @@ def visualize_terrain(colonies):
     ax.set_aspect('equal')
     plt.show()
 
-species_list = [
-    # CoralSpecies("A", 0.2, 1.0, 'blue'),  
-    # CoralSpecies("B", 0.3, 0.2, 'green'), 
-    # CoralSpecies("C", 0.2, 1.0, 'purple'), 
-    # CoralSpecies("D", 0.4, 0.1, 'red') 
-]
 
-total_colonies = 1000
-colony_counts = []
+def calculate_spatial_distribution(species_abundance):
+    species_list = []
+    colony_counts = []
 
-# read generated_species_abundance.json
-import json
+    for species, abundance in species_abundance.items():
+        species_list.append(CoralSpecies(species, 0.01, 0.1, 'blue'))
+        colony_counts.append(int(abundance))
 
-with open('generated_species_abundance.json', 'r') as f:
-    species_abundance = json.load(f)
+    colonies = place_coral_colonies(species_list, colony_counts)
 
-    for species in species_abundance:
-        print(species)
-        species_list.append(CoralSpecies(species, .1, 0.1, 'blue'))
-        colony_counts.append(int(species_abundance[species] * total_colonies))
+    with open('spatial_distribution.json', 'w') as f:
+        output = [[colony['species'], colony['x'], colony['y']] for colony in colonies]
+        json.dump(output, f, indent=4)
 
-colonies = place_coral_colonies(species_list, colony_counts)
-visualize_terrain(colonies)
-
-# export json file of the list of [species, x, y]
-output = []
-for colony in colonies:
-    output.append([colony['species'], colony['x'], colony['y']])
-
-with open('generated_spatial_distribution.json', 'w') as f:
-    json.dump(output, f, indent=4)
+    # visualize_terrain(colonies)
+    return colonies
